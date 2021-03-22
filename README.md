@@ -3,3 +3,4 @@
   
 # <a href="https://julialang.org/"><img src="https://julialang.org/assets/infra/logo.svg" style="max-width: 50px; display: inline" alt="Julia"/></a> [pour le Calcul Scientifique et la *Science des Données*](https://github.com/gabayae/python-pour-le-cs-et-la-sd)
   
+Ceci est une petite série de calepins d'introduction au langage de programmation Julia. Le but de ce cours est de vous donner les bases pour pouvoir commencer à coder dans Julia par vous-même.
